@@ -1,4 +1,3 @@
-SE-DAY5-Technical-Writing
 How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 When it comes to the tech experts one can use technical jargon since they understand and also presenting data and technical results as they will be interested in the same. However, the regular folks one needs to avaoid using technical jargon as it is unnecessary and also try presenting using visual aids like pie charts and graphs which are more relatable to the audience. 
 
